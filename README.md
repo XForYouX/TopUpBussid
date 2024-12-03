@@ -44,7 +44,7 @@
 
 • [Termux](https://f-droid.org/id/packages/com.termux/)
 
-• HTTP Canary ( Get Token Login )
+• [HTTP Canary](https://github.com/XForYouX/TopUpBussid/releases/tag/HttpCanary) ( Get Token Login )
 
 • BUSSID 3.6.1 ( ONLY TOPUP BUSSID )
 
