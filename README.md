@@ -4,6 +4,8 @@
 
 ## FREE TOPUP UB BUSSID ( REAL )
 
+• FREE ACCESS ALWAYS YOU NEED TOPUP BUSSID
+
 ## NEED INSTALL SCRIPT
 
 • pkg update && pkg upgrade
