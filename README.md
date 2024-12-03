@@ -6,7 +6,7 @@
 
 ## NEED INSTALL SCRIPT
 
-• pkg update && pkg upgrade
+• pkg install update && pkg insstall upgrade
 
 • pkg install git
 
