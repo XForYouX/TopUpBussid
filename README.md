@@ -14,6 +14,8 @@
 
 • pkg install python-pip
 
+• pkg install rich
+
 • pip install requests
 
 • pip install colorama
