@@ -10,9 +10,17 @@
 
 • pkg install git
 
-• pkg install git python
+• pkg install python
 
-• pkg install rich
+• pkg install python-pip
+
+• pip install requests
+
+• pip install colorama
+
+• pip install pyfiglet
+
+• pip install pystyle
 
 • git clone https://github.com/XForYouX/TopUpBussid
 
