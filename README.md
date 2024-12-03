@@ -46,7 +46,7 @@
 
 • [HTTP Canary](https://github.com/XForYouX/TopUpBussid/releases/tag/HttpCanary) ( Get Token Login )
 
-• BUSSID 3.6.1 ( ONLY TOPUP BUSSID )
+• [BUSSID 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) ( ONLY TOPUP BUSSID )
 
 • SUPPORT UPDATE LATEST VERSION
 
