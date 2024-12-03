@@ -28,6 +28,8 @@
 
 • cd TopUpBussid
 
+• ls
+
 • python UBBussidFree.py
 
 ## UPDATE SCRIPT
