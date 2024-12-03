@@ -47,3 +47,7 @@
 ## SUPPORT / DONATED
 
 • [Support/Donated](https://saweria.co/XForYouX)
+
+## CHANNEL TELEGRAM
+
+• [Telegram](https://t.me/+qPA-ZeSs6wQzM2Vl)
