@@ -36,9 +36,11 @@
 
 ## NEED INSTALL TO GET TOKEN
 
-• HTTP Canary
+• HTTP Canary ( Get Token Login )
 
-• BUSSID 3.6.1
+• BUSSID 3.6.1 ( ONLY TOPUP BUSSID )
+
+• SUPPORT UPDATE LATEST VERSION
 
 ## PASSWORD LOGIN ( Always Update )
 
