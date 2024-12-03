@@ -8,6 +8,8 @@
 
 • pkg update && pkg upgrade
 
+• pkg install git
+
 • pkg install git python
 
 • pkg install rich
