@@ -28,6 +28,12 @@
 
 • python UBBussidFree.py
 
+## UPDATE SCRIPT
+
+• rm -rf TopUpBussid
+
+• git clone https://github.com/XForYouX/TopUpBussid
+
 ## NEED INSTALL TO GET TOKEN
 
 • HTTP Canary
