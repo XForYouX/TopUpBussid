@@ -18,6 +18,8 @@
 
 • cd TopUpBussid
 
+• python UBBussidFree.py
+
 ## NEED INSTALL TO GET TOKEN
 
 • HTTP Canary
