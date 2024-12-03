@@ -63,3 +63,6 @@
 ## CHANNEL TELEGRAM
 
 • [Telegram](https://t.me/+qPA-ZeSs6wQzM2Vl)
+
+## Informartion Update
+• [Changelog](https://github.com/XForYouX/TopUpBussid/blob/main/changelog)
