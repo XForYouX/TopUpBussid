@@ -1,8 +1,8 @@
-## TAMPILAN MENU SCRIPT
+## SHOW MENU SCRIPT
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/d5ed1414-0224-472a-913e-13113ad6419e"><br>
 
-## GRATIS ISI UB BUSSID
+## FREE TOPUP UB BUSSID
 
 ## NEED INSTALL SCRIPT
 
