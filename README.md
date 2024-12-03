@@ -24,7 +24,7 @@
 
 ## PASSWORD LOGIN
 
-• [Password](https://github.com/XForYouX/TopUpBussid/releases)
+• [PASSWORD](https://github.com/XForYouX/TopUpBussid/releases)
 
 ## SUPPORT / DONATED
 
