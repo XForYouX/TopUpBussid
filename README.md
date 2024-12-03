@@ -18,4 +18,4 @@
 
 ## SUPPORT / DONATED
 
-• {Support/Donated}(https://saweria.co/XForYouX)
+• [Support/Donated](https://saweria.co/XForYouX)
