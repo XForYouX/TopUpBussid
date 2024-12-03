@@ -26,7 +26,7 @@
 
 • BUSSID 3.6.1
 
-## PASSWORD LOGIN
+## PASSWORD LOGIN ( Always Update )
 
 • [PASSWORD](https://github.com/XForYouX/TopUpBussid/releases)
 
