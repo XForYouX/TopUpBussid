@@ -15,3 +15,7 @@
 • HTTP Canary
 
 • BUSSID 3.6.1
+
+## SUPPORT / DONATED
+
+• { Support / Donated }(https://saweria.co/XForYouX)
