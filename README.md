@@ -16,6 +16,10 @@
 
 • BUSSID 3.6.1
 
+## PASSWORD LOGIN
+
+• [Password](https://github.com/XForYouX/TopUpBussid/releases)
+
 ## SUPPORT / DONATED
 
 • [Support/Donated](https://saweria.co/XForYouX)
