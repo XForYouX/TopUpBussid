@@ -38,6 +38,8 @@
 
 ## NEED INSTALL TO GET TOKEN
 
+• [Termux](https://f-droid.org/id/packages/com.termux/)
+
 • HTTP Canary ( Get Token Login )
 
 • BUSSID 3.6.1 ( ONLY TOPUP BUSSID )
