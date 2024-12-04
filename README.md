@@ -57,7 +57,7 @@
 • [Telegram](https://t.me/+qPA-ZeSs6wQzM2Vl)
 
 ## Informartion Update
-• [Changelog](https://github.com/XForYouX/TopUpBussid/blob/main/changelog)
+• [Changelog](https://raw.githubusercontent.com/XForYouX/TopUpBussid/refs/heads/main/changelog)
 
 ## List Feauture
 • [ListFeature](https://raw.githubusercontent.com/XForYouX/TopUpBussid/refs/heads/main/ListFeature)
