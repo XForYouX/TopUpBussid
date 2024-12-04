@@ -9,6 +9,4 @@ pip install rich requests bs4 colorama pyfiglet pystyle
 
 git clone https://github.com/XForYouX/TopUpBussid
 
-cd TopUpBussid
-
 
