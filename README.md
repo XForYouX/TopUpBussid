@@ -8,29 +8,19 @@
 
 ## NEED INSTALL SCRIPT
 
-• pkg update && pkg upgrade
+• pkg update && upgrade -y
 
-• pkg install git
+• pkg install git -y
 
-• pkg install python
-
-• pkg install python-pip
-
-• pip install rich
-
-• pip install requests
-
-• pip install bs4
-
-• pip install colorama
-
-• pip install pyfiglet
-
-• pip install pystyle
+• pkg install bash -y
 
 • git clone https://github.com/XForYouX/TopUpBussid
 
 • cd TopUpBussid
+
+• chmod +x *
+
+• bash autoinstall.sh
 
 • ls
 
@@ -38,9 +28,9 @@
 
 ## UPDATE SCRIPT
 
-• rm -rf TopUpBussid
+• chmod +x *
 
-• git clone https://github.com/XForYouX/TopUpBussid
+• bash update.sh
 
 ## NEED INSTALL TO GET TOKEN
 
