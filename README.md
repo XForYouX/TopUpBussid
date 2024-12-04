@@ -28,6 +28,8 @@
 
 ## UPDATE SCRIPT
 
+• cd TopUpBussid
+
 • chmod +x *
 
 • bash update.sh
