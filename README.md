@@ -48,6 +48,10 @@
 
 • [PASSWORD](https://github.com/XForYouX/TopUpBussid/releases)
 
+## STATUS SCRIPT
+
+• [Status](https://raw.githubusercontent.com/XForYouX/TopUpBussid/refs/heads/main/Status)
+
 ## SUPPORT / DONATED
 
 • [Support/Donated](https://saweria.co/XForYouX)
