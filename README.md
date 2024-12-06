@@ -1,6 +1,6 @@
 ## SHOW MENU SCRIPT
 
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/3b4d52ed-79cb-4d98-8426-a19e5e6407e5"><br>
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/7a5e3cf0-ad24-4549-9483-2c5a270b27a6"><br>
 
 ## FREE TOPUP UB BUSSID ( REAL )
 
