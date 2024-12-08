@@ -60,7 +60,7 @@
 
 • [Telegram](https://t.me/+qPA-ZeSs6wQzM2Vl)
 
-## Informartion Update
+## Information Update
 • [Changelog](https://raw.githubusercontent.com/XForYouX/TopUpBussid/refs/heads/main/changelog)
 
 ## List Feauture
