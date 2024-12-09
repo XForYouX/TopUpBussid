@@ -8,31 +8,23 @@
 
 ## NEED INSTALL SCRIPT
 
-• pkg update && upgrade -y
+• pkg update && upgrade 
 
-• pkg install git -y
+• pkg install python
 
-• pkg install bash -y
+• pkg install git
+
+• pip install requests
+
+• pip install colorama 
 
 • git clone https://github.com/XForYouX/TopUpBussid
 
 • cd TopUpBussid
 
-• chmod +x *
-
-• bash autoinstall.sh
-
 • ls
 
 • python UBBussidFree.py
-
-## UPDATE SCRIPT
-
-• cd TopUpBussid
-
-• chmod +x *
-
-• bash update.sh
 
 ## NEED INSTALL TO GET TOKEN
 
