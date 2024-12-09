@@ -1,11 +1,11 @@
 #!/bin/bash
 
-termux-setup-storage -y
+termux-setup-storage
 
-pkg install python -y
-pkg install python-pip -y
+pkg install python
+pkg install python-pip
 
-pip install --proxy=user:pass@server:port request
+pip install request
 pip install colorama 
 pip install pyfiglet 
 pip install pystyle 
