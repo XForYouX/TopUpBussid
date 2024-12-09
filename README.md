@@ -48,7 +48,7 @@
 
 • [Support/Donated](https://saweria.co/XForYouX)
 
-## CHANNEL TELEGRAM ( Maybe You Can Get Some Information Update Coming Soon & More
+## CHANNEL TELEGRAM ( Maybe You Can Get Some Information Update Coming Soon & More )
 
 • [Telegram](https://t.me/+qPA-ZeSs6wQzM2Vl)
 
