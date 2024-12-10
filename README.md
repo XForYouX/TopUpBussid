@@ -24,7 +24,7 @@
 
 • ls
 
-• python UBBussidFree.py
+• python UBBUSSID.py
 
 ## NEED INSTALL TO GET TOKEN
 
