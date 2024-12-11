@@ -56,3 +56,7 @@
 
 ## Information Update
 • [Changelog](https://raw.githubusercontent.com/XForYouX/TopUpBussid/refs/heads/main/changelog)
+
+## Need Access VIP ?
+## Message Me Via Telegram
+• [Contact Person](https://t.me/XNewbieX)
