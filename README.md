@@ -38,7 +38,9 @@
 
 ## PASSWORD LOGIN ( Always Update )
 
-• [PASSWORD](https://github.com/XForYouX/TopUpBussid/releases)
+• already available in the script
+
+• just type the wrong password then the link will appear
 
 ## STATUS SCRIPT
 
