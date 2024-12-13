@@ -54,6 +54,10 @@
 
 • [Telegram](https://t.me/+qPA-ZeSs6wQzM2Vl)
 
+## TESTIMONI TELEGRAM CHANNEL
+
+• [TestimonTelegram](https://t.me/+eeXAIhmpPXRjZTM9)
+
 ## Information Update
 • [Changelog](https://raw.githubusercontent.com/XForYouX/TopUpBussid/refs/heads/main/changelog)
 
