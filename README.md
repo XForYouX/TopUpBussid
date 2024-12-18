@@ -36,6 +36,8 @@
 
 • SUPPORT UPDATE LATEST VERSION
 
+• Now You Can Get Login Via Device ID & X-Auth ( 2 Option Method Login )
+
 ## PASSWORD LOGIN ( Always Update )
 
 • already available in the script
