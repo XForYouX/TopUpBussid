@@ -28,7 +28,7 @@
 
 ## NEED INSTALL TO GET TOKEN
 
-• [Termux](https://f-droid.org/id/packages/com.termux/)
+• [Termux](https://f-droid.org/id/packages/com.termux/) ( Latest Update ✅ )
 
 • [HTTP Canary](https://github.com/XForYouX/TopUpBussid/releases/tag/HTTPCANARY) ( Get X-Auth Token / Device ID Login )
 
