@@ -1,4 +1,4 @@
-## SHOW MENU SCRIPT
+## SHOW MENU FEATURE
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/57e0b3dc-359c-4255-9836-d6627c52e744"><br>
 
