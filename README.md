@@ -30,9 +30,9 @@
 
 • [Termux](https://f-droid.org/id/packages/com.termux/)
 
-• [HTTP Canary](https://github.com/XForYouX/TopUpBussid/releases/tag/HTTPCANARY) ( Get Token Login )
+• [HTTP Canary](https://github.com/XForYouX/TopUpBussid/releases/tag/HTTPCANARY) ( Get X-Auth Token / Device ID Login )
 
-• [BUSSID 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) ( ONLY TOPUP BUSSID )
+• [BUSSID 3.6.1](https://m.apkpure.com/id/bus-simulator-indonesia/com.maleo.bussimulatorid/download/3.6.1) ( Only To Get X-Auth Token / Device ID )
 
 • SUPPORT UPDATE LATEST VERSION
 
