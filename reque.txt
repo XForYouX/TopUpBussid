@@ -1,6 +1,2 @@
-update
-upgrade
-python
-git
 colorama
 requests
