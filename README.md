@@ -8,19 +8,21 @@
 
 ## NEED INSTALL SCRIPT
 
-• pkg update && upgrade 
+$ pkg update && upgrade 
 
-• pkg install python
+$ pkg install python
 
-• pkg install git
+$ pkg install git
 
-• git clone https://github.com/XForYouX/TopUpBussid
+$ pip install -r reque.txt
 
-• cd TopUpBussid
+$ git clone https://github.com/XForYouX/TopUpBussid
 
-• ls
+$ cd TopUpBussid
 
-• python UBBUSSID.py
+$ ls
+
+$ python UBBUSSID.py
 
 ## NEED INSTALL TO GET TOKEN
 
