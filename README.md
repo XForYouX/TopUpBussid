@@ -12,6 +12,8 @@ $ pkg update && upgrade
 
 $ pkg install python
 
+$ pkg install python-pip
+
 $ pkg install git
 
 $ pip install -r reque.txt
