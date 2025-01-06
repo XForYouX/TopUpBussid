@@ -38,6 +38,12 @@ $ python UBBUSSID.py
 
 • Now You Can Get Login Via Device ID & X-Auth ( 2 Option Method Login )
 
+## SUPPORT GAME
+
+• Login Account ( Via Facebook / Gmail ) ✅
+
+• Guest Account ( Not Bind Account ) ✅
+
 ## PASSWORD LOGIN ( Always Update )
 
 • already available in the script
