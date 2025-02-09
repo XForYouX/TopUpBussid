@@ -26,6 +26,18 @@ $ ls
 
 $ python UBBUSSID.py
 
+## MANUAL UPDATE SCRIPT
+
+$ rm -rf TopUpBussid
+
+$ git clone https://github.com/XForYouX/TopUpBussid
+
+$ cd TopUpBussid
+
+$ ls
+
+$ python UBBUSSID.py
+
 ## NEED INSTALL TO GET TOKEN
 
 • [Termux](https://f-droid.org/id/packages/com.termux/) ( Latest Update ✅ )
